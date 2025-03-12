@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [JU Admission Helpline](Project)
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Dart**
 
 - 📫 How to reach me **rakibulhasan6633@gmail.com**
 
