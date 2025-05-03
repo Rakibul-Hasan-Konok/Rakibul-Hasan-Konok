@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm RH Konok</h1>
-<h3 align="center">Competitive programmer and MERN Stack Developer</h3>
+<h3 align="center">Competitive programmer and App Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rakibul-hasan-konok&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul-hasan-konok" /> </p>
 
-- 🔭 I’m currently working on [JU Admission Helpline](Project)
+- 🔭 I’m currently working on [GoRide App](Project)
 
-- 🌱 I’m currently learning **Dart**
+- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **rakibulhasan6633@gmail.com**
 
@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/md. rokibul hassan konok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md. rokibul hassan konok" height="30" width="40" /></a>
 <a href="https://fb.com/rh konok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rh konok" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/rh konok" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rh konok" height="30" width="40" /></a>
+<a href="[https://codeforces.com/profile/rh konok](https://codeforces.com/profile/RH_Konok)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="rh konok" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
