@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm RH Konok</h1>
-<h3 align="center">Competitive Programmer and App Developer</h3>
+<h3 align="center">Competitive Programmer and Web Developer</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=rakibul-hasan-konok&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul-hasan-konok" />
 </p>
 
 - 🔭 I’m currently working on a project: **[GoRide App](#)**  
-- 🌱 I’m currently learning **Flutter**  
+- 🌱 I’m currently learning **Next JS**  
 - 📫 Reach me at **rakibulhasan6633@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
