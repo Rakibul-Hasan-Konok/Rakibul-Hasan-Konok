@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=rakibul-hasan-konok&label=Profile%20views&color=0e75b6&style=flat" alt="rakibul-hasan-konok" />
 </p>
 
-- 🔭 I’m currently working on a project: **[GoRide App](#)**  
+- 🔭 I’m currently working on a project: **MovieMint**  
 - 🌱 I’m currently learning **Next JS**  
 - 📫 Reach me at **rakibulhasan6633@gmail.com**
 
