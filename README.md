@@ -30,10 +30,12 @@
 
 - 💻 **Codeforces:** Pupil (Max rating: 1210) – [RH Konok](https://codeforces.com/profile/RH_Konok)  
 - 🧮 **LeetCode:** 250+ problems solved — Contest Rating: 1500+ – [RH Konok](https://leetcode.com/u/RH_Konok/)  
-- 🥇 **ICPC Dhaka Preliminary 2024 (ICPC Global):** Ranked 498th out of 2400+ teams – Team JU OddOne  
-- 🥈 **ICPC Dhaka Preliminary 2024 (BAPSOJ):** Ranked 515th out of 2400+ teams – Team JU OddBits  
-- 🥉 **IEEEXtreme 17.0:** Global Rank 1451, Country Rank 10 – Team JUBlackcaps  
-- 🎯 **IEEEXtreme 16.0:** Global Rank 1488, Country Rank 17 – Team JU3Bits  
+- 🥇 **ICPC Dhaka Preliminary 2023 (ICPC Global):** Ranked 498th out of 2400+ teams – Team JU OddOne – [Standings](https://icpc.global/regionals/finder/Asia-Amritapuri-First-Round-2023/standings)  
+- 🥈 **ICPC Dhaka Preliminary 2024 (BAPSOJ):** Ranked 515th out of 2400+ teams – Team JU OddBits – [Standings](https://bapsoj.org/contests/icpc-preliminary-dhaka-site-2024/standings)
+- 🎯 **IEEEXtreme 16.0:** Global Rank 1488, Country Rank 17 – Team JU3Bits – [Ranking](https://ieeextreme.org/ieeextreme-16-0-ranking/) 
+- 🥉 **IEEEXtreme 17.0:** Global Rank 1451, Country Rank 10 – Team JUBlackcaps – [Ranking](https://ieeextreme.org/ieeextreme-17-0-ranking/)  
+
+
 
 ---
 
