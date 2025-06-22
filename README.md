@@ -29,7 +29,7 @@
 ### 🏆 ACHIEVEMENTS
 
 - 💻 **Codeforces:** Pupil (Max rating: 1210) – [RH Konok](https://codeforces.com/profile/RH_Konok)  
-- 🧮 **LeetCode:** 250+ problems solved — Contest Rating: 1500+ – RH Konok  
+- 🧮 **LeetCode:** 250+ problems solved — Contest Rating: 1500+ – [RH Konok](https://leetcode.com/u/RH_Konok/)  
 - 🥇 **ICPC Dhaka Preliminary 2024 (ICPC Global):** Ranked 498th out of 2400+ teams – Team JU OddOne  
 - 🥈 **ICPC Dhaka Preliminary 2024 (BAPSOJ):** Ranked 515th out of 2400+ teams – Team JU OddBits  
 - 🥉 **IEEEXtreme 17.0:** Global Rank 1451, Country Rank 10 – Team JUBlackcaps  
@@ -46,11 +46,7 @@
   <a href="https://fb.com/rhkonok" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
   </a>
-  <a href="https://codeforces.com/profile/RH_Konok" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40"/>
-  </a>
 </p>
-
 
 ---
 
