@@ -32,10 +32,10 @@
 ### 🔗 Connect with Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/md-rokibul-hassan-konok" target="_blank">
+  <a href="https://www.linkedin.com/in/md-rokibul-hassan-konok-43b9b7250/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
   </a>
-  <a href="https://fb.com/rhkonok" target="_blank">
+  <a href="https://www.facebook.com/rh.konok.3" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
   </a>
 </p>
@@ -43,6 +43,7 @@
 <p>
   📫 **Email:** <a href="mailto:rakibulhasan6633@gmail.com">rakibulhasan6633@gmail.com</a>
 </p>
+
 
 ---
 
