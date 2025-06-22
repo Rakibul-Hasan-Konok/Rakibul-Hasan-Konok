@@ -5,16 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=rakibul-hasan-konok&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
-
-### 🔍 About Me
-
-- 🔭 I’m currently working on a project: **MovieMint**
-- 🌱 I’m currently learning **Next.js**
-- 📫 Reach me at **rakibulhasan6633@gmail.com**
-
----
-
 ### 🧠 TECHNICAL SKILLS
 
 - **Core Competencies:** Algorithms, Data Structures, Problem Solving, Object-Oriented Programming  
@@ -48,6 +38,10 @@
   <a href="https://fb.com/rhkonok" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
   </a>
+</p>
+
+<p>
+  📫 **Email:** <a href="mailto:rakibulhasan6633@gmail.com">rakibulhasan6633@gmail.com</a>
 </p>
 
 ---
